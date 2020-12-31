@@ -1,6 +1,7 @@
 package academy.learnprogramming.maps
 
 fun main (args: Array<String>) {
+	//testing
 
 	val setInts = setOf(10, 15, 19, 5, 3, -22)
 	println(setInts.plus(20))
