@@ -1,3 +1,5 @@
+*.jar
+*.xml
 .DS_Store
 .idea/shelf
 /confluence/target
